@@ -63,7 +63,7 @@ st.markdown("""
         transform: translateY(-5px);
     }
     .info-box {
-        background-color: #e3f2fd;
+        background-color: black;
         border-left: 5px solid #2196f3;
         padding: 1rem;
         border-radius: 5px;
@@ -77,11 +77,12 @@ st.markdown("""
         margin: 1rem 0;
     }
     .success-box {
-        background-color: #d4edda;
+        background-color: lightgreen;
         border-left: 5px solid #28a745;
         padding: 1rem;
         border-radius: 5px;
         margin: 1rem 0;
+        color: black;
     }
     .stButton>button {
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
