@@ -1,6 +1,7 @@
 # 📈 Stock Price Analysis & Forecasting using ARIMA
 
-> Internship Project – Time Series Analysis & Forecasting  
+> Internship Project – Time Series Analysis & Forecasting
+> Role: Data Scientist Intern
 > Author: Shivan Mishra
 
 ---
