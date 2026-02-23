@@ -2,7 +2,6 @@
 
 > Internship Project – Time Series Analysis & Forecasting
 > Role: Data Scientist Intern
-> Author: Shivan Mishra
 
 ---
 
